@@ -3,98 +3,121 @@
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Android_pack.zip",
     "author": "Leese",
     "tags": [],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Android Pack"
   },
   {
-    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal%20Black.zip",
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal Black.zip",
     "author": "Leese",
     "tags": [],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Animal Black"
   },
   {
-    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal%20Gray.zip",
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal Gray.zip",
     "author": "Leese",
     "tags": [],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Animal Gray"
   },
   {
-    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal%20White.zip",
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal White.zip",
     "author": "Leese",
     "tags": [],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Animal White"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Arctic_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "White",
+      "Light",
+      "Border"
+    ],
+    "date": 1632331782000,
     "name": "Arctic Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Black_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Black Themes"
+    "tags": [
+      "Black",
+      "Border"
+    ],
+    "date": 1632331782000,
+    "name": "Black themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Black_Themes_V2.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Black Themes_V2"
+    "tags": [
+      "Black",
+      "Border",
+      "Fixed"
+    ],
+    "date": 1632331782000,
+    "name": "Dark Black Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Blue_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Blue Themes"
+    "tags": "Fixed",
+    "date": 1632331782000,
+    "name": "Blue themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Bluish_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": "Fixed",
+    "date": 1632331782000,
     "name": "Bluish Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Borderless_Material.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Borderless Material"
+    "tags": [
+      "Borderless",
+      "Material"
+    ],
+    "date": 1632331782000,
+    "name": "Borderless Material Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colored_keys.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": "Colorful",
+    "date": 1632331782000,
     "name": "Colored keys"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colorful.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Colorful",
+      "Fixed"
+    ],
+    "date": 1632331782000,
     "name": "Colorful"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colors_Dark.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Colorful",
+      "Dark"
+    ],
+    "date": 1632331782000,
     "name": "Colors Dark"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colors_Light.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Colorful",
+      "Light"
+    ],
+    "date": 1632331782000,
     "name": "Colors Light"
   },
   {
@@ -104,15 +127,15 @@
       "Fixed",
       "Dark"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Dark Grey Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Desaturated_pack.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Desaturated.zip"
+    "tags": "Border",
+    "date": 1632331782000,
+    "name": "Desaturated Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Dracula_Theme_Pack.zip",
@@ -121,7 +144,7 @@
       "Border",
       "Dark"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Dracula Pack"
   },
   {
@@ -134,7 +157,7 @@
       "Dark",
       "Unique"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Exclusive Pack"
   },
   {
@@ -147,7 +170,7 @@
       "Dark",
       "Exclusive"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Exclusive Pack 2"
   },
   {
@@ -160,7 +183,7 @@
       "Dark",
       "Exclusive"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Exclusive Pack 3"
   },
   {
@@ -172,7 +195,7 @@
       "Dark",
       "Exclusive"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Exclusive Pack 4"
   },
   {
@@ -185,7 +208,7 @@
       "Dark",
       "Exclusive"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Exclusive Pack 5"
   },
   {
@@ -195,14 +218,14 @@
       "Fixed",
       "Borderless"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Feather Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Gem_Black.zip",
     "author": "Leese",
     "tags": [],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Gem Black"
   },
   {
@@ -212,22 +235,22 @@
       "Unique",
       "Border"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Generated Colors Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Grey_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": "Borderless",
+    "date": 1632331782000,
     "name": "Grey Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Halloween_Pack.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Halloween Pack"
+    "tags": "Border",
+    "date": 1632331782000,
+    "name": "Halloween Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Logo_Pack.zip",
@@ -237,7 +260,7 @@
       "Dark",
       "Rboard Logo"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Logo Pack"
   },
   {
@@ -248,7 +271,7 @@
       "Dark",
       "Fixed"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "MPack Dark Themes"
   },
   {
@@ -259,7 +282,7 @@
       "Light",
       "Fixed"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "MPack Light Themes"
   },
   {
@@ -270,126 +293,168 @@
       "Light",
       "Fixed"
     ],
-    "date": 1632327593000,
+    "date": 1632331782000,
     "name": "Material3 Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material_grey.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Material grey"
+    "tags": "Material",
+    "date": 1632331782000,
+    "name": "Grey Material Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material_ocean_lively.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Material ocean_lively"
+    "tags": [
+      "Dark",
+      "Material",
+      "Fixed"
+    ],
+    "date": 1632331782000,
+    "name": "Material Oceans Lively"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material_ocean_themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Material ocean_themes"
+    "tags": [
+      "Dark",
+      "Material",
+      "Fixed"
+    ],
+    "date": 1632331782000,
+    "name": "Material Oceans"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Minecraft_Pack.zip",
     "author": "Akos Paha",
     "tags": [],
-    "date": 1632327593000,
-    "name": "Minecraft Pack"
+    "date": 1632331782000,
+    "name": "Minecraft Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Mix.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Mix"
+    "tags": [
+      "Unique",
+      "Border"
+    ],
+    "date": 1632331782000,
+    "name": "Mix Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Mixed_Bordeless_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Mixed Bordeless_Themes"
+    "tags": "Borderless",
+    "date": 1632331782000,
+    "name": "Mixed Borderless Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Nero_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Border",
+      "Fixed"
+    ],
+    "date": 1632331782000,
     "name": "Nero Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/NightLight_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Fixed",
+      "Border",
+      "Dark"
+    ],
+    "date": 1632331782000,
     "name": "NightLight Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Nord_Themes.zip",
     "author": "Akos Paha",
     "tags": [],
-    "date": 1632327593000,
-    "name": "Nord Themes"
+    "date": 1632331782000,
+    "name": "Nord themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/PitchBlack.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "PitchBlack"
+    "tags": [
+      "Black",
+      "Border"
+    ],
+    "date": 1632331782000,
+    "name": "PitchBlack Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Redesigns_Modified.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Redesigns Modified"
+    "tags": [
+      "Redesign",
+      "Border",
+      "Fixed"
+    ],
+    "date": 1632331782000,
+    "name": "Redesign Modified Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Redesigns_pack.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Redesigns"
+    "tags": [
+      "Redesign",
+      "Border",
+      "Fixed"
+    ],
+    "date": 1632331782000,
+    "name": "Redesign Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Rounded_Pack.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Border",
+      "Fixed"
+    ],
+    "date": 1632331782000,
     "name": "Rounded Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Snowys.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "Snowys"
+    "tags": "Fixed",
+    "date": 1632331782000,
+    "name": "Snowy Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Style_material.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Material",
+      "Fixed"
+    ],
+    "date": 1632331782000,
     "name": "Style material"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Swift_material.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
+    "tags": [
+      "Material",
+      "Fixed"
+    ],
+    "date": 1632331782000,
     "name": "Swift material"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/White_themes.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632327593000,
-    "name": "White themes"
+    "tags": [
+      "White",
+      "Border",
+      "Fixed"
+    ],
+    "date": 1632331782000,
+    "name": "White Themes"
   }
 ]
