@@ -37,7 +37,7 @@ async function run() {
                         console.log(commit)
                         meta.date = new Date(commit.authorDate).getTime()
                         meta.author = commit.authorName
-                    }
+                    } else if (error) console.log(error)
                     res()
                 })
             })
