@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 0
           
       - name: Fetch all commits
-        run: git fetch --prune
+        run: git pull origin main
 
       - name: Setup Node
         uses: actions/setup-node@v2
