@@ -7,6 +7,8 @@ on:
       - '.github/**'
       - 'packs/**'
       - 'index.js'
+  workflow_run:
+    branches: [ main ]
 
 jobs:
   build:
