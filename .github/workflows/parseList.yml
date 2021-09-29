@@ -15,11 +15,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
           
       - name: Fetch all commits
-        run: git pull origin main
+        run: git fetch --prune --unshallow; git pull origin main
 
       - name: Setup Node
         uses: actions/setup-node@v2
