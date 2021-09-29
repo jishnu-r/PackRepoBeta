@@ -29,7 +29,7 @@ async function run() {
             await new Promise((res) => {
                 gitLog({
                     repo: process.cwd(),
-                    file: path.join(packPath, pack),
+                    file: pack,
                     fields: ["hash", "authorName", "authorDate"]
                 }, (error, commits) => {
                     const commit = commits[0]
