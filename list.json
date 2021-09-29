@@ -428,8 +428,11 @@
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Rounded_Pack.zip",
     "author": "Akos Paha",
-    "tags": [],
-    "date": 1632551951000,
+    "tags": [
+      "Border",
+      "Fixed"
+    ],
+    "date": 1632945927000,
     "name": "Rounded Pack"
   },
   {
