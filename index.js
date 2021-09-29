@@ -34,6 +34,7 @@ async function run() {
                 }, (error, commits) => {
                     const commit = commits[0]
                     if (commit) {
+                        console.log(commit)
                         meta.date = new Date(commit.authorDate).getTime()
                         meta.author = commit.authorName
                     }
