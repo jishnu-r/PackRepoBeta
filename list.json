@@ -33,9 +33,10 @@
     "tags": [
       "White",
       "Light",
-      "Border"
+      "Border",
+      "Fixed"
     ],
-    "date": 1632331737000,
+    "date": 1633192919000,
     "name": "Arctic Themes"
   },
   {
@@ -283,7 +284,7 @@
       "Dark",
       "Fixed"
     ],
-    "date": 1632327241000,
+    "date": 1633192919000,
     "name": "MPack Dark Themes"
   },
   {
@@ -294,7 +295,7 @@
       "Light",
       "Fixed"
     ],
-    "date": 1632327241000,
+    "date": 1633192919000,
     "name": "MPack Light Themes"
   },
   {
@@ -305,7 +306,7 @@
       "Light",
       "Fixed"
     ],
-    "date": 1632327241000,
+    "date": 1633192919000,
     "name": "Material3 Themes"
   },
   {
