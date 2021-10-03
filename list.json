@@ -141,9 +141,10 @@
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Desaturated_pack.zip",
     "author": "Akos Paha",
     "tags": [
-      "Border"
+      "Border",
+      "Fixed"
     ],
-    "date": 1632331737000,
+    "date": 1633292650000,
     "name": "Desaturated Pack"
   },
   {
@@ -399,9 +400,10 @@
     "author": "Akos Paha",
     "tags": [
       "Black",
-      "Border"
+      "Border",
+      "Fixed"
     ],
-    "date": 1632331737000,
+    "date": 1633292650000,
     "name": "PitchBlack Pack"
   },
   {
