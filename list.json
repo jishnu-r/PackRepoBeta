@@ -167,21 +167,15 @@
       "Dark",
       "Unique"
     ],
-    "date": 1632327241000,
+    "date": 1633728301000,
     "name": "Exclusive Pack"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_2.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Unique",
-      "Border",
-      "Light",
-      "Dark",
-      "Exclusive"
-    ],
-    "date": 1632327241000,
-    "name": "Exclusive Pack 2"
+    "author": "AkosPaha",
+    "tags": [],
+    "date": 1633728301000,
+    "name": "Exclusive 2"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_3.zip",
